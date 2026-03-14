@@ -1,4 +1,5 @@
-# StockMarketAnalyzer-
+# Stock Market Analyzer 
+# Domainc- Finance & Investment Analysis
 A Python-based real-time stock market analyzer that fetches live financial data using the Yahoo Finance API and visualizes price trends using moving averages.
 
 ## 🎯 Problem Statement
@@ -54,3 +55,13 @@ Stock prices fluctuate frequently. Visualizing historical price movements helps 
 - Matplotlib  
 - Seaborn  
 - yfinance (Yahoo Finance API)
+
+## Sample Output
+
+### Reliance an Apple Stock Analysis
+
+The charts below shows the daily stock price along with 7-day and 30-day moving averages, which help identify short-term and long-term price trends.
+
+![Reliance Stock Analysis](images/reliance_stock.png)
+
+![Microsoft Stock Analysis](images/microsoft_stock.png)
