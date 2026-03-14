@@ -58,10 +58,10 @@ Stock prices fluctuate frequently. Visualizing historical price movements helps 
 
 ## Sample Output
 
-### Reliance an Apple Stock Analysis
+### Reliance and Apple Stock Analysis
 
 The charts below shows the daily stock price along with 7-day and 30-day moving averages, which help identify short-term and long-term price trends.
 
-![Reliance Stock Analysis](images/reliance_stock.png)
+![Reliance Stock Analysis](Reliance_Stock_Analysis.png)
 
-![Microsoft Stock Analysis](images/microsoft_stock.png)
+![Apple Stock Analysis](Apple_Stock_Analysis.png)
